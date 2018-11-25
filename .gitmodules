@@ -1,0 +1,105 @@
+[submodule "themes/minimal"]
+	path = themes/minimal
+	url = https://github.com/calintat/minimal.git
+[submodule "themes/er"]
+	path = themes/er
+	url = https://github.com/lingxz/er.git
+[submodule "themes/osprey"]
+	path = themes/osprey
+	url = https://github.com/tomanistor/osprey.git
+[submodule "themes/lithium"]
+	path = themes/lithium
+	url = https://github.com/jrutheiser/hugo-lithium-theme.git
+[submodule "themes/winning"]
+	path = themes/winning
+	url = https://github.com/cssandstuff/hugo-theme-winning.git
+[submodule "themes/slim"]
+	path = themes/slim
+	url = https://github.com/zhe/hugo-theme-slim.git
+[submodule "themes/athena"]
+	path = themes/athena
+	url = https://github.com/mtn/athena-hugo-theme.git
+[submodule "themes/basics"]
+	path = themes/basics
+	url = https://github.com/arjunkrishnababu96/basics.git
+[submodule "themes/cocoa"]
+	path = themes/cocoa
+	url = https://github.com/nishanths/cocoa-hugo-theme.git
+[submodule "themes/arabica"]
+	path = themes/arabica
+	url = https://github.com/nirocfz/arabica.git
+[submodule "themes/pickles"]
+	path = themes/pickles
+	url = https://github.com/mismith0227/hugo_theme_pickles.git
+[submodule "themes/bootstrap"]
+	path = themes/bootstrap
+	url = https://github.com/Xzya/hugo-bootstrap.git
+[submodule "themes/whiteplain"]
+	path = themes/whiteplain
+	url = https://github.com/taikii/whiteplain.git
+[submodule "themes/cocoa-eh"]
+	path = themes/cocoa-eh
+	url = https://github.com/fuegowolf/cocoa-eh-hugo-theme.git
+[submodule "themes/mainroad"]
+	path = themes/mainroad
+	url = https://github.com/Vimux/mainroad.git
+[submodule "themes/bootstrap-bp"]
+	path = themes/bootstrap-bp
+	url = https://github.com/spech66/bootstrap-bp-hugo-theme.git
+[submodule "themes/paper"]
+	path = themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper.git
+[submodule "themes/mediumish"]
+	path = themes/mediumish
+	url = https://github.com/lgaida/mediumish-gohugo-theme.git
+[submodule "themes/LeaveIt"]
+	path = themes/LeaveIt
+	url = https://github.com/liuzc/LeaveIt.git
+[submodule "themes/even"]
+	path = themes/even
+	url = https://github.com/olOwOlo/hugo-theme-even.git
+[submodule "themes/black-and-light"]
+	path = themes/black-and-light
+	url = https://github.com/davidhampgonsalves/hugo-black-and-light-theme.git
+[submodule "themes/minimo"]
+	path = themes/minimo
+	url = https://github.com/MunifTanjim/minimo.git
+[submodule "themes/nuo"]
+	path = themes/nuo
+	url = https://github.com/laozhu/hugo-nuo.git
+[submodule "themes/simplicity"]
+	path = themes/simplicity
+	url = https://github.com/eshlox/simplicity.git
+[submodule "themes/finite"]
+	path = themes/finite
+	url = https://github.com/lambdafu/hugo-finite.git
+[submodule "themes/manis"]
+	path = themes/manis
+	url = https://github.com/yursan9/manis-hugo-theme.git
+[submodule "themes/jane"]
+	path = themes/jane
+	url = https://github.com/xianmin/hugo-theme-jane.git
+[submodule "themes/introduction"]
+	path = themes/introduction
+	url = https://github.com/vickylaixy/hugo-theme-introduction.git
+[submodule "themes/wave"]
+	path = themes/wave
+	url = https://github.com/syui/hugo-theme-wave.git
+[submodule "themes/next"]
+	path = themes/next
+	url = https://github.com/leopku/hugo-theme-next.git
+[submodule "themes/nixon"]
+	path = themes/nixon
+	url = https://github.com/mdhender/nixon.git
+[submodule "themes/beautiful"]
+	path = themes/beautiful
+	url = https://github.com/halogenica/beautifulhugo.git
+[submodule "themes/blank"]
+	path = themes/blank
+	url = https://github.com/vimux/blank.git
+[submodule "themes/pixyll"]
+	path = themes/pixyll
+	url = https://github.com/azmelanar/hugo-theme-pixyll.git
+[submodule "themes/oldworlddata"]
+	path = themes/oldworlddata
+	url = https://github.com/giovannotti/oldworlddata_hugo_theme
