@@ -1,0 +1,3 @@
+# Ignore all themes except oldworlddata
+/themes/*
+!/themes/oldworlddata
