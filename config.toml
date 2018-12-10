@@ -1,17 +1,30 @@
 baseURL = "https://www.oldworlddata.com"
 languageCode = "en-us"
 defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false # content/en/ = content/
 title = "Old World Data"
 theme = "oldworlddata"
-author = "Johannes Friedl"
+googleAnalytics = "UA-124375609-1" # TODO: set real google analytics id
 
 # Pagination
-paginate = 3
+paginate = 5
 paginatePath = "page"
 
-# [taxonomies]
-#   tag = "tags"
-#   category = "categories"
+# Code highlighting
+# pygmentsUseClasses = true
+# pygmentsCodeFences = true
+pygmentsStyle = "trac"
+
+[params]
+    description = "A statistical approach to cultural historical studies. Which effect have data science and probability theory on archeology and history?"
+    author = "Johannes Friedl"
+
+	showScrollToTop = true
+	showTagCloud = true
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
 
 # # Languages
 # [languages.de]
@@ -54,6 +67,8 @@ paginatePath = "page"
 #   post = "/:year/:month/:title/"
 #   blog  = "blog/:slug/"
 
+SectionPagesMenu = "main"
+
 [[menu.main]]
 name                   = "Posts"
 title                  = "Posts"
@@ -82,6 +97,4 @@ weight                 = 3
 identifier             = "data"
 url                    = "/data/"
 
-[[params]]
-showTagCloud = true
-showScrollToTop = true
+
